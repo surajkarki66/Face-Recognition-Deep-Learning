@@ -17,6 +17,6 @@ Below is the diagram of model structure of DeepID1 and DeepID2.
 
 As a state-of-the-art design 3rd convolution layer is connected to the both 4th convolution layer and fully connected layer whereas 4th convolution layer is connected to fully connected layer as well. Fully connected layer adds the receiving signal from 3rd and 4th convolution layers in DeepID2 whereas 1st generation DeepID appends receiving signals from those layers.
 
-![Link to the DeepID paper](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
+[Link to the DeepID paper](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 
 I am going to implement DeepID2 to in Tensorflow.
