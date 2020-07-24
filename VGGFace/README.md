@@ -34,3 +34,15 @@ A triplet (a, p, n) contains an anchor face image 'a' as well as a positive 'p' 
 ### 3) Training:
 
 For learning the embedding using triplet loss, the network is frozen except the last FC layer implementing the discriminative projection.
+
+### 4) Predictions:
+
+#### 1) VGG16 backbone:
+
+![Screenshot from 2020-07-24 18-22-51](https://user-images.githubusercontent.com/50628520/88392502-d303e080-cddb-11ea-8a40-d5dacb4b3289.png)
+
+![Screenshot from 2020-07-24 18-22-28](https://user-images.githubusercontent.com/50628520/88392531-df883900-cddb-11ea-83da-a0124c76c90f.png)
+
+![Screenshot from 2020-07-24 18-22-16](https://user-images.githubusercontent.com/50628520/88392552-eb73fb00-cddb-11ea-85b5-2906dadf0159.png)
+
+![Screenshot from 2020-07-24 18-22-04](https://user-images.githubusercontent.com/50628520/88392596-f9298080-cddb-11ea-92ae-8019988238e9.png)
