@@ -1,0 +1,26 @@
+{
+    "root": "/home/surajkarki/Documents/My Workspace/Face-Recognition-Deep-Learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/surajkarki66/Face-Recognition-Deep-Learning.git",
+        "commit": "2c896097a0984191cb427b54fcd3d4617604fd9d"
+    },
+    "email": "suraj.karki500@gmail.com",
+    "startedAt": "2020-08-03T04:36:33.372743",
+    "host": "surajkarki-Inspiron-5567",
+    "username": "surajkarki",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-5.4.0-33-generic-x86_64-with-glibc2.29",
+    "python": "3.8.2",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/home/surajkarki/.local/share/jupyter/runtime/kernel-2b7239f4-0274-49e0-81e4-aaa90b81be38.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "copper-wave-7",
+    "project": "siamese",
+    "heartbeatAt": "2020-08-03T04:40:48.063379"
+}
